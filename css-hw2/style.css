@@ -1,0 +1,24 @@
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#google {
+	text-align: center;
+	background-color: #eeeeee;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.left-right-column {
+	background-color: #7ee5da;
+	text-align: center;
+	width: 550px;
+}
+
+.center-column {
+	background-color: #7ee5da;
+	text-align: center;
+	width: 310px;
+}
